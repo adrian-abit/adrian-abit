@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @adrian-abit
+- 👋 Hi, I’m Adrian
