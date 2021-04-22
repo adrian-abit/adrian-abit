@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Adrian
+- I'm building my portfolio right now
