@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Adrian
+- 👋 Hello World, I’m Adrian
 - I'm building my portfolio right now :v:
 
-## I am speaking
-### Java
-### Python
-### TypeScript
+## I am currently speaking
+### ☕ Java ☕
+### 🐍 Python 🐍
+### TypeScript (yes ES6 too)
+### PHP (i hate it)
 JavaScript
 Node.js
 express + handlebars :heart:
+### MongoDB & SQL (its ess-cue-ell not sequel)
+#### linux 🖤 nginx
+
+trying to learn more and more as i go
