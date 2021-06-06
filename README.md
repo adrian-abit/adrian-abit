@@ -4,7 +4,8 @@
 ## I am currently speaking
 ### ☕ Java ☕
 ### 🐍 Python 🐍
-### TypeScript (yes ES6 too)
+### C#
+### TypeScript
 ### PHP (i hate it)
 JavaScript
 Node.js
