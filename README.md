@@ -2,14 +2,13 @@
 - I'm building my portfolio right now :v:
 
 ## I am currently speaking
-### ☕ Java ☕
-### 🐍 Python 🐍
-### C#
 ### TypeScript
-### PHP (i hate it)
+### ☕ Java ☕
+### PHP
 JavaScript
 Node.js
 express + handlebars :heart:
+React
 ### MongoDB & SQL (its ess-cue-ell not sequel)
 #### linux 🖤 nginx
 
